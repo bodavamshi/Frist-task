@@ -1,0 +1,22 @@
+body{
+    background-color: black;
+    color: white;
+}
+.border{
+    text-align: center;
+    border: 5px solid grey;
+    position: relative;
+    margin-top: 100px;
+    margin-left: 300px;
+    margin-right: 300px;
+    position: relative;
+    display:block;
+    border-radius: 25px;
+}
+.head{
+    padding-top: 20px;
+    color: green;
+}
+.logo{
+    height: 30px;
+}
